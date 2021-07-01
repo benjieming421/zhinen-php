@@ -1,0 +1,1 @@
+<a class="big" href="/index.php/item/index">成功添加<?php echo $count ?>条记录，点击返回</a>
